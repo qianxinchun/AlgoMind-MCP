@@ -21,6 +21,14 @@ Key functionalities of the MCP server include:
 In essence, this MCP server acts as a centralized hub for researchers to access, analyze, and implement cutting-edge machine learning concepts, promoting reproducibility and accelerating innovation.
 
 
+## References
+
+- [一个 从信息的获取 到扩展 最后到反思 分享 回顾的方法 可以看下面的图片 结合google deep search（获取更多知识） + ppt/网页生成（3.7+乔木大佬提示词） + notebooklm（音频/问答） + refly（创作/回顾](https://x.com/lee04052822/status/1901312078540931570)
+  - ![](https://pbs.twimg.com/media/GmLRPFWagAEspK3?format=jpg&name=4096x4096)
+- [四个Prompt，支持生成PPT、生产3D教学动画、生成SVG海报等。](https://x.com/vista8/status/1901224129405338102)
+
+
+
 我们计划构建一个基于Cursor和模型上下文协议（MCP）的服务器，旨在协助用户复现机器学习（涵盖大模型、计算机视觉、多模态、强化学习等多个领域）论文中的代码。该服务器将结合论文原文（及其参考文献、相关开源代码）来帮助用户深入理解和优化算法，甚至实现新的想法。
 
 MCP服务器将提供以下功能，但不限于：
