@@ -22,10 +22,11 @@ In essence, this MCP server acts as a centralized hub for researchers to access,
 
 
 ## References
-
 - [一个 从信息的获取 到扩展 最后到反思 分享 回顾的方法 可以看下面的图片 结合google deep search（获取更多知识） + ppt/网页生成（3.7+乔木大佬提示词） + notebooklm（音频/问答） + refly（创作/回顾](https://x.com/lee04052822/status/1901312078540931570)
   - ![](https://pbs.twimg.com/media/GmLRPFWagAEspK3?format=jpg&name=4096x4096)
 - [四个Prompt，支持生成PPT、生产3D教学动画、生成SVG海报等。](https://x.com/vista8/status/1901224129405338102)
+- [built a Deep Research AI Agent team using OpenAI Agents SDK and Firecrawl.](https://www.theunwindai.com/p/build-a-deep-research-agent-with-openai-agents-sdk-and-firecrawl)
+  - [Twitter](https://x.com/shao__meng/status/1901538016390508861) 
 
 ## speech generation
 - [sesame/csm-1b](https://huggingface.co/sesame/csm-1b)
